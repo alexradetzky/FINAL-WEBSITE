@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Title Here</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles.css" rel="stylesheet" type="text/css" />
+<!-- TemplateParam name="navigation-home" type="boolean" value="true" -->
+<!-- TemplateParam name="navigation-band members" type="boolean" value="true" -->
+<!-- TemplateParam name="navigation-history" type="boolean" value="true" -->
+<!-- TemplateParam name="navigation-popular discography" type="boolean" value="true" -->
+<!-- TemplateParam name="navigation-live" type="boolean" value="true" -->
+<style type="text/css">
+body {
+	background-color: #FFFFFF;
+}
+.morecontent {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #90F;
+	background-color: #0F9;
+	text-align: center;
+}
+.lastcontent {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	background-color: #9F6;
+	color: #606;
+}
+.evenmorecontent {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #0FC;
+	background-color: #F3F;
+}
+body, td, th {
+	color: #FFF;
+	background-color: #0FF;
+}
+</style>
+</head>
+
+<body>
+<div class="wrapper">
+  <table width="950" border="30" class="thispage">
+    <tr>
+      <td><a href="../index1.html">Home</a></td>
+      <td><a href="../Band Members.html">Band Members</a></td>
+      <td><a href="../History.html">History</a></td>
+      <td><a href="../Popular Discography.html">Popular Discography</a></td>
+      <td><a href="../Live.html">Live</a></td>
+    </tr>
+  </table>
+  <div class="content">
+    <p align="center"><strong><!-- TemplateBeginEditable name="content" -->Content<!-- TemplateEndEditable --></strong></p>
+  </div>
+  <div class="morecontent">
+    <p align="center" class="morecontent"><strong><!-- TemplateBeginEditable name="morecontent" -->More Content<!-- TemplateEndEditable --></strong></p>
+  </div>
+  <div class="evenmorecontent">
+    <p align="center"><strong><!-- TemplateBeginEditable name="evenmorecontent" -->Even more Content<!-- TemplateEndEditable --></strong></p>
+  </div>
+  <div class="lastcontent">
+    <p align="center"><strong> <!-- TemplateBeginEditable name="lastcontent" -->Last Content<!-- TemplateEndEditable --></strong></p>
+  </div>
+</div>
+</body>
+</html>
